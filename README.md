@@ -1,4 +1,4 @@
-**Dark Thur Recovery**
+<center> # DTRecovery Project </center>
 
 ## Getting Started ##
 ---------------
