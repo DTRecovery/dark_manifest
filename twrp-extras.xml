@@ -3,7 +3,7 @@
 
 <!-- TWRP lives in omnirom, not AOSP -->
     <remove-project name="platform/bootable/recovery" />
-    <project path="bootable/recovery" name="android_bootable_recovery" remote="omnirom" revision="android-9.0" />
+    <project path="bootable/recovery" name="dark_bootable_recovery" remote="dtrp" revision="recovery" />
 
 
 <!-- The following changes are no longer needed in 8.1 (only kept for reference) -->
