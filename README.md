@@ -24,7 +24,7 @@ Then to sync up:
     repo sync
 ```
 
-Choose build type befor start building
+Choose build type before start building
 ```
    $ . build/build.sh
    $ reltypea (FOR OFFICIAL BUILDS)
