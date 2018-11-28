@@ -10,7 +10,10 @@
   <remote  name="omnirom"
            fetch="https://github.com/omnirom"
            review="gerrit.omnirom.org" />
-
+  
+  <remote  name="dtrp"
+           fetch="https://github.com/DTRecovery"
+           
   <project path="art" name="android_art" remote="omnirom" revision="android-8.1" groups="pdk" />
   <project path="bionic" name="android_bionic" remote="omnirom" revision="android-8.1" groups="pdk" />
 
